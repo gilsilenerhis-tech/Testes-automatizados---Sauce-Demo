@@ -1,4 +1,4 @@
-# 🤖 Testes Automatizados – Sauce Demo
+# 🤖 Testes Automatizados com Cypress e Gherkin
 
 📌 **Descrição**  
 Este repositório contém **testes automatizados** criados utilizando a metodologia **BDD (Behavior Driven Development)**, escritos em **linguagem natural Gherkin** e implementados em **JavaScript** com o framework **Cypress**.  
